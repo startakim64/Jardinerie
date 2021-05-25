@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "planter des choux"#!/bin/bash
+echo "planter des choux"
+echo "planter des carottes"
+
